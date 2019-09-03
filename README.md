@@ -13,4 +13,4 @@ This is the first of 30 vanilla JS challenges in Wes Bos' #JavaScript30 series. 
 
 ## Credit
 
-Check out the challenge and tutorial [here]: (https://javascript30.com/). 
+Check out the challenge and tutorial [here](https://javascript30.com/). 
